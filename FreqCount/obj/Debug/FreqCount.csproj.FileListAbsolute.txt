@@ -1,0 +1,15 @@
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\FreqCount.exe.config
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\FreqCount.exe
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\FreqCount.pdb
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\LoopBack.exe
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\FTD2XX_NET.dll
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\LoopBack.pdb
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\bin\Debug\FTD2XX_NET.xml
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.csprojAssemblyReference.cache
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.Form1.resources
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.Properties.Resources.resources
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.csproj.GenerateResource.cache
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.csproj.CoreCompileInputs.cache
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.csproj.CopyComplete
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.exe
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\FreqCount\obj\Debug\FreqCount.pdb
