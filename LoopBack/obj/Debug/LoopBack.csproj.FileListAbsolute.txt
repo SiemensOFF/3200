@@ -1,0 +1,15 @@
+C:\DUNST\C#\LoopBack\obj\Debug\ResolveAssemblyReference.cache
+C:\DUNST\C#\LoopBack\bin\Debug\LoopBack.exe
+C:\DUNST\C#\LoopBack\bin\Debug\LoopBack.pdb
+C:\DUNST\C#\LoopBack\bin\Debug\FTD2XX_NET.dll
+C:\DUNST\C#\LoopBack\bin\Debug\FTD2XX_NET.xml
+C:\DUNST\C#\LoopBack\obj\Debug\LoopBack.exe
+C:\DUNST\C#\LoopBack\obj\Debug\LoopBack.pdb
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\bin\Debug\LoopBack.exe
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\bin\Debug\LoopBack.pdb
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\bin\Debug\FTD2XX_NET.xml
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\obj\Debug\LoopBack.csprojAssemblyReference.cache
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\obj\Debug\LoopBack.csproj.CoreCompileInputs.cache
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\obj\Debug\LoopBack.csproj.CopyComplete
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\obj\Debug\LoopBack.exe
+D:\YandexDisk\UCIT\CD_ROM_T3200U_v4.1.2.4\CD_ROM_T3200U_v4.1.2.4\UserSoftwareExamples\C#\LoopBack\obj\Debug\LoopBack.pdb
